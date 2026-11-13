@@ -1,0 +1,354 @@
+[
+    {
+        "tmdb_id": 508442,
+        "titulo": "Soul",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2020,
+        "poster_path": "/xJ7MCAy4oCLerPo3JjnB8lKOhl4.jpg"
+    },
+    {
+        "tmdb_id": 1374,
+        "titulo": "Rocky IV",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1985,
+        "poster_path": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg"
+    },
+    {
+        "tmdb_id": 1246,
+        "titulo": "Rocky Balboa",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2006,
+        "poster_path": "/8oN30JAimKk2LcLOusSYpGvMPgG.jpg"
+    },
+    {
+        "tmdb_id": 840,
+        "titulo": "Encuentros en la tercera fase",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1977,
+        "poster_path": "/btE3LrMhuFa8sfPGxHRC4hGyEjr.jpg"
+    },
+    {
+        "tmdb_id": 620,
+        "titulo": "Cazafantasmas",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1984,
+        "poster_path": "/7eZUL4fvjVkmNPbD8IxQT4X9emt.jpg"
+    },
+    {
+        "tmdb_id": 562,
+        "titulo": "Jungla de cristal",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1988,
+        "poster_path": "/m54tK4wKjc1w2dp7QInG0munGao.jpg"
+    },
+    {
+        "tmdb_id": 273248,
+        "titulo": "Los odiosos ocho",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2015,
+        "poster_path": "/7DYGdFT4gtiD5BI6xyOU6v0XXvi.jpg"
+    },
+    {
+        "tmdb_id": 429,
+        "titulo": "El bueno, el feo y el malo",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1966,
+        "poster_path": "/71HKV5F9bfm05ZZnjGmRuFpUVCo.jpg"
+    },
+    {
+        "tmdb_id": 1954,
+        "titulo": "El efecto mariposa",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2004,
+        "poster_path": "/vtqJkVTvrxbk2BehGO6e6izsUBa.jpg"
+    },
+    {
+        "tmdb_id": 591,
+        "titulo": "El código Da Vinci",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2006,
+        "poster_path": "/r5DHVCB5AV7B7GLmXMyA71Y4Yu4.jpg"
+    },
+    {
+        "tmdb_id": 10386,
+        "titulo": "El gigante de hierro",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1999,
+        "poster_path": "/voPAzJFyopCnLEwaBWpoX8uDvGI.jpg"
+    },
+    {
+        "tmdb_id": 4553,
+        "titulo": "El maquinista",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2004,
+        "poster_path": "/2z6jtS2dVTbM73USNEewBh7kwX3.jpg"
+    },
+    {
+        "tmdb_id": 9693,
+        "titulo": "Hijos de los hombres",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2006,
+        "poster_path": "/jxVLES5eTLuJgeYs0ywCLZbbQW1.jpg"
+    },
+    {
+        "tmdb_id": 279,
+        "titulo": "Amadeus",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1984,
+        "poster_path": "/nI24KqCadkHbjF4LpVHmUhQRNDn.jpg"
+    },
+    {
+        "tmdb_id": 13567,
+        "titulo": "Campamento sangriento",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1983,
+        "poster_path": "/UYqt5MMss0B6DqQTgZbPaBr5eI.jpg"
+    },
+    {
+        "tmdb_id": 1955,
+        "titulo": "El hombre elefante",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1980,
+        "poster_path": "/8oif8Zz7Nlf0vMVIiqX1rxDLoXl.jpg"
+    },
+    {
+        "tmdb_id": 326446,
+        "titulo": "Savageland",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2015,
+        "poster_path": "/zen8kRKOjLpmZWNdGekzY58ZHOD.jpg"
+    },
+    {
+        "tmdb_id": 1883,
+        "titulo": "Malcolm X",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1992,
+        "poster_path": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg"
+    },
+    {
+        "tmdb_id": 1184918,
+        "titulo": "Robot salvaje",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2024,
+        "poster_path": "/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg"
+    },
+    {
+        "tmdb_id": 974576,
+        "titulo": "Cónclave",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2024,
+        "poster_path": "/jkOgeASTlWwyKLBNblHVwWmAKhD.jpg"
+    },
+    {
+        "tmdb_id": 1391,
+        "titulo": "Y tu mamá también",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2001,
+        "poster_path": "/a87k2dfqhJi7QbOWOiQWTThyDYK.jpg"
+    },
+    {
+        "tmdb_id": 41454,
+        "titulo": "Oldboys",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2009,
+        "poster_path": "/wjJgTgxPjkVutOXSnWxKGD63mTR.jpg"
+    },
+    {
+        "tmdb_id": 11644,
+        "titulo": "Impacto",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1981,
+        "poster_path": "/vbHo8X0Zpny7rSovAdAEJeXVRwK.jpg"
+    },
+    {
+        "tmdb_id": 150,
+        "titulo": "Límite: 48 horas",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1982,
+        "poster_path": "/cHE4O3MjvH8Pv3qXEYaRtKbTwdR.jpg"
+    },
+    {
+        "tmdb_id": 989662,
+        "titulo": "A Different Man",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2024,
+        "poster_path": "/qiESnZxQeJKXJyRLBYaKoEGtB1q.jpg"
+    },
+    {
+        "tmdb_id": 502033,
+        "titulo": "Sound of Metal",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2020,
+        "poster_path": "/xGNzDtOWXRcea94JGvkeOJwmXbG.jpg"
+    },
+    {
+        "tmdb_id": 976893,
+        "titulo": "Días perfectos",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2023,
+        "poster_path": "/efnvsuEdkdwiWR7WyQ2QgcGt8mM.jpg"
+    },
+    {
+        "tmdb_id": 303991,
+        "titulo": "Demolición",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2016,
+        "poster_path": "/vGAQasaiocRmXkabQuvM2o1kjBB.jpg"
+    },
+    {
+        "tmdb_id": 74439,
+        "titulo": "Asesinato en el Senado de la Nación",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1984,
+        "poster_path": "/74kPficW3326o5Ud0NiiO2EOfEt.jpg"
+    },
+    {
+        "tmdb_id": 714888,
+        "titulo": "Argentina 1985",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 2022,
+        "poster_path": "/isLWtcB9TK3wLlTzEny2dPH6beh.jpg"
+    },
+    {
+        "tmdb_id": 97727,
+        "titulo": "Ultrasecretos",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2021,
+        "poster_path": "/qqgile6iKxMejnC7W5LuTh4Rhit.jpg"
+    },
+    {
+        "tmdb_id": 18347,
+        "titulo": "Community",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2009,
+        "poster_path": "/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg"
+    },
+    {
+        "tmdb_id": 76331,
+        "titulo": "Succession",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2018,
+        "poster_path": "/xyHasySw0HQ4ndRWHvrpRTAsWXd.jpg"
+    },
+    {
+        "tmdb_id": 78191,
+        "titulo": "You",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2018,
+        "poster_path": "/30vdq2GJKUgYW3utQnXDOiE6tvn.jpg"
+    },
+    {
+        "tmdb_id": 110492,
+        "titulo": "El Pacificador",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2022,
+        "poster_path": "/t7NakS7qZekeXSocv6jcyd5on7A.jpg"
+    },
+    {
+        "tmdb_id": 1104,
+        "titulo": "Mad Men",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2007,
+        "poster_path": "/5jOedTeytYzlJZwU66MFjmLHhHX.jpg"
+    },
+    {
+        "tmdb_id": 125949,
+        "titulo": "La ciudad es nuestra",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2022,
+        "poster_path": "/gWlZRCE9ttL99UK1aIOq8GvKL0Y.jpg"
+    },
+    {
+        "tmdb_id": 71694,
+        "titulo": "Snowfall",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2017,
+        "poster_path": "/y7ntzl7msiaS6o7dvDbNG7XFYcR.jpg"
+    },
+    {
+        "tmdb_id": 97546,
+        "titulo": "Ted Lasso",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2020,
+        "poster_path": "/6YUzArR2TElmGMj1HmnnfVlgunL.jpg"
+    },
+    {
+        "tmdb_id": 5920,
+        "titulo": "El mentalista",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2008,
+        "poster_path": "/zZEndCRk5mWKw7LB9kAAO4LcgRh.jpg"
+    },
+    {
+        "tmdb_id": 136315,
+        "titulo": "The Bear",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2022,
+        "poster_path": "/5TZnk9ryzfcNlsCOghURfZsBong.jpg"
+    },
+    {
+        "tmdb_id": 12477,
+        "titulo": "La tumba de las luciérnagas",
+        "tipo": "Película",
+        "genero": "Desconocido",
+        "anio": 1988,
+        "poster_path": "/xTPa9c7Bgdq1BlZee24QeIx0jyR.jpg"
+    },
+    {
+        "tmdb_id": 213375,
+        "titulo": "VisionQuest",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2026,
+        "poster_path": "/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg"
+    },
+    {
+        "tmdb_id": 201834,
+        "titulo": "ted",
+        "tipo": "Serie",
+        "genero": "Desconocido",
+        "anio": 2024,
+        "poster_path": "/qPsKMp4ezqgT2XvtV8U9zdITqA5.jpg"
+    }
+]
